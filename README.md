@@ -1,9 +1,9 @@
 # agentized-ai-entity
-compilation of many ai interaction/thought frameworks and github repositories to be used together in some way as a entity made of smaller entities similar to the [thousand brains theory](https://www.numenta.com/technology/research/thousand-brains-theory/)
+compilation of many ai interaction/thought frameworks and github repositories to be used together in some way as a single entity made of smaller entities similar to the [thousand brains theory](https://www.numenta.com/technology/research/thousand-brains-theory/)
 
 
 ## my setup
-i am running an ubuntu virtual machine on my computer because open interpreter should allow it to fully interact with the computer if i can make it work the way i want it to and i dont know to what extent erronous things may pile up.
+i am running an ubuntu virtual machine on my computer because open interpreter should allow it to fully interact with the computer if i can make it work the way i want it to and i dont know to what extent erronious things may pile up.
 i still dont know yet if this is fully possible to do the way i think but i want it to be possible, i know almost nothing about coding so chatgpt basically does all of that for me.
 
 ## current to do
