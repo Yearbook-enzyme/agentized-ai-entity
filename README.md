@@ -1,5 +1,6 @@
 # agentized-ai-entity
 compilation of many ai interaction/thought frameworks and github repositories to be used together in some way as a single entity made of smaller entities similar to the [thousand brains theory](https://www.numenta.com/technology/research/thousand-brains-theory/)
+the present goal is for it to just be an enhanced chatbot that can do many things since it will be quite tedious to figure out how to make all of the repositories interact
 
 
 ## my setup
@@ -8,7 +9,6 @@ i still dont know yet if this is fully possible to do the way i think but i want
 
 ## current to do
 - organize the list of links below more clearly (the broad to niche order may possibly be incorrect and should be reordered if needed) as a flowchart to be easily shown how all of the repositories should interact
-- the exactness of what the entity should aim to be is still being decided but so far the idea is to just be a enhanced chatbot that can do many things
 - gather people to make this project work if i run into problems
 
 
