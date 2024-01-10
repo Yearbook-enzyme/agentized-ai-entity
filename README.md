@@ -16,6 +16,7 @@ check the [discussions](https://github.com/Yearbook-enzyme/agentized-ai-entity/d
 - try testing things!
 - get people looking at this github repository! make sure to share it around to those who might be interested.
 - i need people to help muddle through integration hell with me to get this all to work together cohesively because i know very little about coding and so far that is entirely a job being done by chatgpt.
+- figure out a solution to starting this all up and getting them all to interact and seeing results of what the agentized ai entity does as well as a way to provide feedback to it simply (if possible step by step)
 
 ## flowcharts
 ![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
