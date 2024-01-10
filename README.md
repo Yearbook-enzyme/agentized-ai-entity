@@ -11,7 +11,8 @@ i seem to be needing 5 openai api keys and 1 bing api key if i were to use bshr,
 
 ## current to do
 - try testing things!
-- get people looking at this github repository
+- get people looking at this github repository! make sure to share it around to those who might be interested.
+- i need people to help muddle through integration hell with me to get this all to work together cohesively because i know very little about coding and so far that is entirely a job being done by chatgpt.
 
 ## flowcharts
 ![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
