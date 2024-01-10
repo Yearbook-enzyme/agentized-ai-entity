@@ -9,6 +9,9 @@ i am running a ubuntu virtual machine on my computer because open interpreter sh
 i still dont know yet if this is fully possible to do the way i think but i want it to be possible, i know almost nothing about coding so chatgpt basically does all of that for me.
 i seem to be needing 5 openai api keys and 1 bing api key if i were to use bshr, crewai, memgpt, open interpreter, remo, bing search.
 
+## current happenings
+check the [discussions](https://github.com/Yearbook-enzyme/agentized-ai-entity/discussions) section to interact with others
+
 ## current to do
 - try testing things!
 - get people looking at this github repository! make sure to share it around to those who might be interested.
