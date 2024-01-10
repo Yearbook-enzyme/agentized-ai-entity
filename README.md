@@ -7,8 +7,7 @@ i am running a ubuntu virtual machine on my computer because open interpreter sh
 i still dont know yet if this is fully possible to do the way i think but i want it to be possible, i know almost nothing about coding so chatgpt basically does all of that for me.
 
 ## current to do
-- organize the list of links below more clearly (the broad to niche order may possibly be incorrect and should be reordered if needed) as a flowchart to be easily shown how all of the repositories should interact
-- gather people to make this project work if i run into problems
+- try testing things!
 
 ## flowcharts
 ![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
