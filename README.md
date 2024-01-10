@@ -2,31 +2,41 @@
 compilation of many ai interaction/thought frameworks and github repositories to be used together in some way as a single entity made of smaller entities similar to the [thousand brains theory](https://www.numenta.com/technology/research/thousand-brains-theory/)
 the present goal is for it to just be an enhanced chatbot that can do many things since it will be quite tedious to figure out how to make all of the repositories interact
 
-
 ## my setup
-i am running an ubuntu virtual machine on my computer because open interpreter should allow it to fully interact with the computer if i can make it work the way i want it to and i dont know to what extent erronious things may pile up.
+i am running a ubuntu virtual machine on my computer because open interpreter should allow it to fully interact with the computer if i can make it work the way i want it to and i dont know to what extent erronious things may pile up.
 i still dont know yet if this is fully possible to do the way i think but i want it to be possible, i know almost nothing about coding so chatgpt basically does all of that for me.
 
 ## current to do
 - organize the list of links below more clearly (the broad to niche order may possibly be incorrect and should be reordered if needed) as a flowchart to be easily shown how all of the repositories should interact
 - gather people to make this project work if i run into problems
 
+###Foundational Frameworks and Core Components, These repositories provide the basic building blocks and core functionalities for the AI system.
 
-### the below links are ordered from top to bottom by broad to niche usage within the entity
-- https://github.com/daveshap/Functional_Sentience
-- https://github.com/joaomdmoura/crewAI
-- https://github.com/KillianLucas/open-interpreter
-- https://github.com/daveshap/ATOM_Framework
-- https://github.com/cpacker/MemGPT
-- https://github.com/daveshap/REMO_Framework
-- https://github.com/daveshap/OpenAI_Agent_Swarm
-- https://github.com/daveshap/ACE_L1_Aspiration
-- https://github.com/daveshap/HierarchicalMemoryConsolidationSystem
-- https://github.com/daveshap/ACE_WorldState
-- https://github.com/daveshap/Benevolent_AGI
-- https://github.com/daveshap/latent_space_activation
-- https://github.com/joseph-crowley/BSHR
-- https://github.com/daveshap/Semantic_Embedding_Reverse_Dictionary
-- https://github.com/daveshap/HeuristicImperatives
-- https://github.com/daveshap/PTSD_prompts
-- https://github.com/daveshap/SparsePrimingRepresentations
+[Functional_Sentience:](https://github.com/daveshap/Functional_Sentience) Could serve as the primary framework for basic AI cognitive functions, laying the groundwork for more complex thought processes.
+[crewAI:](https://github.com/joaomdmoura/crewAI) Might be used for managing collaborative tasks among different AI agents, essential for a system composed of multiple entities.
+[open-interpreter:](https://github.com/KillianLucas/open-interpreter) Useful for interpreting and executing commands, acting as an interface between the AI and external inputs.
+[ATOM_Framework:](https://github.com/daveshap/ATOM_Framework) Provides a structure for AI learning and decision-making processes, a key component for an adaptive AI system.
+
+###Memory and Learning Enhancement, These repositories focus on memory, learning, and data processing capabilities.
+
+[MemGPT:](https://github.com/cpacker/MemGPT) Enhances the AI's memory and learning capabilities, crucial for retaining and utilizing knowledge.
+[HierarchicalMemoryConsolidationSystem:](https://github.com/daveshap/HierarchicalMemoryConsolidationSystem) Could be integrated to manage and organize the AI's memory hierarchically, improving information retrieval and processing.
+
+###Specialized Functionalities, These repositories add specific capabilities to the AI, enhancing its versatility.
+
+[REMO_Framework:](https://github.com/daveshap/REMO_Framework) Might be used for emotion recognition and response, adding a layer of emotional intelligence to the AI.
+[OpenAI_Agent_Swarm:](https://github.com/daveshap/OpenAI_Agent_Swarm) Useful for coordinating multiple AI agents, enhancing the system's ability to handle complex, distributed tasks.
+[ACE_L1_Aspiration](https://github.com/daveshap/ACE_L1_Aspiration) & [ACE_WorldState:](https://github.com/daveshap/ACE_WorldState) These could work together to give the AI a sense of goal-oriented behavior and awareness of its environment or context.
+[Benevolent_AGI:](https://github.com/daveshap/Benevolent_AGI) Focuses on ensuring the AI's actions are aligned with ethical and benevolent principles.
+
+###Advanced Cognitive and Interpretative Capabilities, These repositories are geared towards enhancing the AI's understanding and cognitive processing.
+
+[latent_space_activation:](https://github.com/daveshap/latent_space_activation) Could be used for advanced pattern recognition and interpretation within the AI's processing framework.
+[Semantic_Embedding_Reverse_Dictionary:](https://github.com/daveshap/Semantic_Embedding_Reverse_Dictionary) Enhances the AI's language understanding and generation capabilities, crucial for a chatbot.
+[HeuristicImperatives:](https://github.com/daveshap/HeuristicImperatives) Provides a framework for decision-making based on heuristic principles.
+
+###Niche and Specialized Applications, These repositories offer specific applications that could be integrated as the AI develops.
+
+[BSHR:](https://github.com/joseph-crowley/BSHR) Could be used for specific human-robot interaction scenarios.
+[PTSD_prompts:](https://github.com/daveshap/PTSD_prompts) Offers specialized content for dealing with PTSD-related interactions, showcasing the potential for therapeutic applications.
+[SparsePrimingRepresentations:](https://github.com/daveshap/SparsePrimingRepresentations) Enhances the AI's ability to make associations and connections, useful for creative or problem-solving tasks.
