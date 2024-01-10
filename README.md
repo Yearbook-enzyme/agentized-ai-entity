@@ -1,3 +1,5 @@
+![DALL·E 2024-01-09 21 27 41 - An artistic representation of the concept of an 'Agentized AI Entity' from a GitHub repository  The image features a futuristic, abstract AI entity, s](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/0ddac1ab-a7e6-472f-b290-7ce27f7451fc)
+
 # agentized-ai-entity
 compilation of many ai interaction/thought frameworks and github repositories to be used together in some way as a single entity made of smaller entities similar to the [thousand brains theory](https://www.numenta.com/technology/research/thousand-brains-theory/)
 the present goal is for it to just be an enhanced chatbot that can do many things since it will be quite tedious to figure out how to make all of the repositories interact
