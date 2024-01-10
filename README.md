@@ -7,11 +7,11 @@ the present goal is for it to just be an enhanced chatbot that can do many thing
 ## my setup
 i am running a ubuntu virtual machine on my computer because open interpreter should allow it to fully interact with the computer if i can make it work the way i want it to and i dont know to what extent erronious things may pile up.
 i still dont know yet if this is fully possible to do the way i think but i want it to be possible, i know almost nothing about coding so chatgpt basically does all of that for me.
+i seem to be needing 5 openai api keys and 1 bing api key if i were to use bshr, crewai, memgpt, open interpreter, remo, bing search.
 
 ## current to do
 - try testing things!
-- list how many openai api keys are needed
-- make sick asf thumbnail
+- get people looking at this github repository
 
 ## flowcharts
 ![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
