@@ -10,6 +10,8 @@ i still dont know yet if this is fully possible to do the way i think but i want
 - organize the list of links below more clearly (the broad to niche order may possibly be incorrect and should be reordered if needed) as a flowchart to be easily shown how all of the repositories should interact
 - gather people to make this project work if i run into problems
 
+## github repositories to use
+
 ### Foundational Frameworks and Core Components, These repositories provide the basic building blocks and core functionalities for the AI system.
 
 [Functional_Sentience:](https://github.com/daveshap/Functional_Sentience) Could serve as the primary framework for basic AI cognitive functions, laying the groundwork for more complex thought processes.
