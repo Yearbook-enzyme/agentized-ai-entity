@@ -10,6 +10,12 @@ i still dont know yet if this is fully possible to do the way i think but i want
 - organize the list of links below more clearly (the broad to niche order may possibly be incorrect and should be reordered if needed) as a flowchart to be easily shown how all of the repositories should interact
 - gather people to make this project work if i run into problems
 
+## flowcharts
+![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
+![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/2d3d9e86-32ea-4bee-8c46-b14af16db8a6)
+![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/9ca0d561-0266-4103-b360-e6c0bb4cb4cc)
+
+
 ## github repositories to use
 
 ### Foundational Frameworks and Core Components, These repositories provide the basic building blocks and core functionalities for the AI system.
@@ -57,3 +63,4 @@ i still dont know yet if this is fully possible to do the way i think but i want
 [PTSD_prompts:](https://github.com/daveshap/PTSD_prompts) Offers specialized content for dealing with PTSD-related interactions, showcasing the potential for therapeutic applications.
 
 [SparsePrimingRepresentations:](https://github.com/daveshap/SparsePrimingRepresentations) Enhances the AI's ability to make associations and connections, useful for creative or problem-solving tasks.
+
