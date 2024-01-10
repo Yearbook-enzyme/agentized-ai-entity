@@ -10,6 +10,8 @@ i still dont know yet if this is fully possible to do the way i think but i want
 
 ## current to do
 - try testing things!
+- list how many openai api keys are needed
+- make sick asf thumbnail
 
 ## flowcharts
 ![image](https://github.com/Yearbook-enzyme/agentized-ai-entity/assets/144038028/fe9e86d4-25d1-438e-88e9-644a39535208)
